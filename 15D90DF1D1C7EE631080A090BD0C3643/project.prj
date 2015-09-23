@@ -1,0 +1,20 @@
+{
+    "LocalDependencies": [],
+    "LuaDependencies": [
+        "bigapp.art.art_harrison",
+        "bigapp.art.harrison",
+        "bigapp.art.super_harrison",
+        "bigapp.virtues.generosity",
+        "bigapp.virtues.kindness",
+        "node",
+        "sha1",
+        "well_hello_there"
+    ],
+    "OtherDependencies": [],
+    "timestamp": "1443036266",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}

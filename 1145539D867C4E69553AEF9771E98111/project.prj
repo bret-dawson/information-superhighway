@@ -1,0 +1,21 @@
+{
+    "LocalDependencies": [
+        "art/art_harrison.lua",
+        "art/harrison.lua",
+        "art/super_harrison.lua",
+        "virtues/generosity.lua",
+        "virtues/kindness.lua"
+    ],
+    "LuaDependencies": [
+        "node",
+        "sha1",
+        "well_hello_there"
+    ],
+    "OtherDependencies": [],
+    "timestamp": "1443036266",
+    "version_info": {
+        "build": 0,
+        "major": 6,
+        "minor": 0
+    }
+}

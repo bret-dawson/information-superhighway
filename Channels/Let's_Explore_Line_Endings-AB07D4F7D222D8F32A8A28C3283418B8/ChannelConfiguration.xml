@@ -1,0 +1,15 @@
+<channel
+   name="Let&apos;s Explore Line Endings"
+   guid="AB07D4F7D222D8F32A8A28C3283418B8"
+   description=""
+   start_automatically="false"
+   logging_level="1"
+   use_message_filter="false">
+   <to_channel>
+   </to_channel>
+   <from_http
+      type="mapper"
+      guid="19FBE7A9597416382356FEE889864824"
+      commit_id="a05c10c6d58d49db90e6c11756ff77f8774822b1"
+      commit_comment="Committing translator data for imported channel(s)."/>
+</channel>

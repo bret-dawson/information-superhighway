@@ -1,0 +1,16 @@
+<channel
+   name="Let&apos;s Update In Bulk"
+   guid="582777BFA7F97D732D6EA991525BF346"
+   description=""
+   start_automatically="false"
+   logging_level="1"
+   use_message_filter="false">
+   <to_channel>
+   </to_channel>
+   <from_mapper
+      guid="31C0D1D22C76436CEAC1D65C8E10D2D8"
+      commit_id="a05c10c6d58d49db90e6c11756ff77f8774822b1"
+      commit_comment="Committing translator data for imported channel(s)."
+      poll_time="10000">
+   </from_mapper>
+</channel>
